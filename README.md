@@ -166,9 +166,10 @@ ASS: ASS17uc as Bhyve
 
 ![](images/3.jpg)
 
-23.01.2019 (ass-build-20190119T113233Z) current status was after 6 months of development and many joyent fixes for bhyve
+23.01.2019 (ass-build-20190119T113233Z)
 ========================================================================================================================
 
+* current status was after 6 months of development and many joyent fixes for bhyve
 * the speed is now approximately equal
 
 * https://us-east.manta.joyent.com/Joyent_Dev/public/SmartOS/smartos.html#20181220T002304Z
