@@ -166,3 +166,19 @@ ASS: ASS17uc as Bhyve
 
 ![](images/3.jpg)
 
+23.01.2019 (ass-build-20190119T113233Z) current status was after 6 months of development and many joyent fixes for bhyve
+========================================================================================================================
+
+* the speed is now approximately equal
+
+* https://us-east.manta.joyent.com/Joyent_Dev/public/SmartOS/smartos.html#20181220T002304Z
+* https://us-east.manta.joyent.com/Joyent_Dev/public/SmartOS/smartos.html#20181206T012147Z
+* https://us-east.manta.joyent.com/Joyent_Dev/public/SmartOS/smartos.html#20181121T182506Z
+* https://us-east.manta.joyent.com/Joyent_Dev/public/SmartOS/smartos.html#20181108T015750Z
+
+![](images/ass_it_kvm_vs_bhyve_performance_1.jpg)
+
+![](images/ass_it_kvm_vs_bhyve_performance_2.jpg)
+
+![](images/ass_it_kvm_vs_bhyve_performance_3.jpg)
+
